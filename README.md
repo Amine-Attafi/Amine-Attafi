@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine Attafi</h1>
-<h3 align="center">A passionate Software Engineer from Morocco, driven by innovation and a love for problem-solving...</h3>
+<h3 align="center">A passionate Software Engineer from Morocco, driven by innovation and a love for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-attafi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-attafi" /> </p>
 
