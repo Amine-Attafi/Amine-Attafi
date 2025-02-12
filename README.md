@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amine Attafi</h1>
-<h3 align="center">A passionate Software Engineer from Morocco, driven by innovation and a love for problem-solving.</h3>
+<br>
+<!--   my-header-img -->
+
+<h1><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a></h1>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Amine+Attafi;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+Software+engineer+in+progress)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-attafi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-attafi" /> </p>
 
@@ -15,3 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-attafi&show_icons=true&locale=en&layout=compact" alt="amine-attafi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-attafi&show_icons=true&locale=en" alt="amine-attafi" /></p>
+
+### 📈 GitHub Activity Graph:
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
