@@ -7,6 +7,13 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Amine+Attafi;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+Software+engineer+in+progress)](https://git.io/typing-svg)
 
+<h1>
+  <a href="https://en.wikipedia.org/wiki/Morocco">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" align="right" height="120" width="120">
+  </a>
+</h1>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-attafi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-attafi" /> </p>
 
