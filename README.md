@@ -10,7 +10,7 @@
   </a>
 
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me :</h3>
 <p align="left">
   I am a passionate Software Engineer with experience in developing scalable and efficient applications.  
   I specialize in full-stack development, working with technologies such as JavaScript, Python, .NET, and more.  
@@ -18,13 +18,13 @@
   I enjoy building innovative solutions and collaborating with teams to create impactful software.  
 </p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect With Me :</h2>
 <p align="left">
 </p>
 
 - 📫 Do not hesitate to contact me at Email : amineattaficode@gmail.com
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages And Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,css,docker,dotnet,figma,flutter,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,php,python,react,unity&theme=dark"/>
